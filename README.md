@@ -1,6 +1,6 @@
 # ponto-front
 
-> My doozie Nuxt.js project
+> My projeto to register work time >> Nuxt.js project
 
 ## Build Setup
 
