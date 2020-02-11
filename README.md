@@ -1,6 +1,6 @@
 # ponto-front
 
-> My projeto to register work time >> Nuxt.js project
+> My projet to register work time >> Nuxt.js project
 
 ## Build Setup
 
