@@ -49,14 +49,19 @@ export default {
       fixed: false,
       items: [
         {
-          icon: 'mdi-apps',
-          title: 'Welcome',
+          icon: 'mdi-timer',
+          title: 'Ponto',
           to: '/'
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
+          icon: 'mdi-tie',
+          title: 'Jornada',
+          to: '/jornada'
+        },
+        {
+          icon: 'mdi-chart-line',
+          title: 'Mensal',
+          to: '/mensal'
         }
       ],
       miniVariant: false,
